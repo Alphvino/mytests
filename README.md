@@ -1,2 +1,2 @@
-# mytests
-Repository where i put my exercises that i do with different languages
+# My files
+Simple as it is, repository where i put some of my programming files or also dotfiles!
