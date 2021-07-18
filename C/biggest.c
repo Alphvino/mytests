@@ -13,7 +13,6 @@ int main ()
  
         if (i == 0)
         {
-	
             max = x;
         }
  
